@@ -8,3 +8,6 @@ To start the project,
 5, Now start the project with command: `$ docker-compose up -d --build`.  
 6, Check the project on URL: `http://localhost:8080/`.  
 7, Check Swagger documentations: `http://localhost:8081/swagger-ui/index.html#/`, `http://localhost:8082/swagger-ui/index.html#/`, `http://localhost:8083/swagger-ui/index.html#/`.  
+
+# The architecture:
+<img width="650" alt="P9_architecture" src="https://user-images.githubusercontent.com/65612959/153610563-57ec4513-ff8e-474a-a7d4-287dff35d02d.png">. 
