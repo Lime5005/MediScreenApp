@@ -1,0 +1,8 @@
+docker/
+mediscreen-patient/
+mediscreen-record/
+mediscreen-report/
+mediscreen-ui/
+.DS_Store
+.idea/
+
